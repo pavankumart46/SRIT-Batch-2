@@ -8,3 +8,45 @@ This line is the missing line
 This line is unmodified line
 Added another line
 
+
+
+git init - command is used to initialize git repository. We shall have to run this command only once in the life time of a project. This command will create a folder structure in a folder called git. This git folder is invisible and should not be accessed manually. 
+
+git --version - this command will tell you the git version.
+
+This line is the missing line
+
+
+This line is unmodified line
+Added another line
+
+
+
+
+
+
+git init - command is used to initialize git repository. We shall have to run this command only once in the life time of a project. This command will create a folder structure in a folder called git. This git folder is invisible and should not be accessed manually. 
+
+git --version - this command will tell you the git version.
+
+This line is the missing line
+
+
+This line is unmodified line
+Added another line
+
+
+
+
+
+
+git init - command is used to initialize git repository. We shall have to run this command only once in the life time of a project. This command will create a folder structure in a folder called git. This git folder is invisible and should not be accessed manually. 
+
+git --version - this command will tell you the git version.
+
+This line is the missing line
+
+
+This line is unmodified line
+Added another line
+
